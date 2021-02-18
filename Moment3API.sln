@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.808.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Moment3API", "Moment3API.csproj", "{F60651FC-141D-4407-947E-2B8627177B6F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F60651FC-141D-4407-947E-2B8627177B6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F60651FC-141D-4407-947E-2B8627177B6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F60651FC-141D-4407-947E-2B8627177B6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F60651FC-141D-4407-947E-2B8627177B6F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96FB0CF1-3B75-4005-B441-28D7B4157930}
+	EndGlobalSection
+EndGlobal
